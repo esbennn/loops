@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Examples()
+comment0.text=\n\ Constructor\ -\ no\ parameters\n
+comment1.params=
+comment1.target=void\ forloopExample()
+comment1.text=\n\ Ordinary\ for-loop\ -\ looping\ through\ ordinary\ array\n
+comment2.params=
+comment2.target=void\ whileExample()
+comment2.text=\n\ Example\ with\ ordinary\ while-loop\n
+comment3.params=
+comment3.target=void\ forEachExample()
+comment3.text=\n\ For-earch\ loop,\ looping\ through\ an\ ArrayList.\ Note\ the\ angled\ bracket\ syntax\ (<>).\n
+comment4.params=
+comment4.target=void\ iteratorExample()
+comment4.text=\n\ Example\ with\ iterator\ combined\ with\ for-loop\ and\ while-loop\n
+numComments=5
